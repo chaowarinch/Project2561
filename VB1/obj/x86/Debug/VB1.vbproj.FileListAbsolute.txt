@@ -1,0 +1,10 @@
+D:\VB1\VB1\bin\Debug\VB1.exe
+D:\VB1\VB1\bin\Debug\VB1.pdb
+D:\VB1\VB1\bin\Debug\VB1.xml
+D:\VB1\VB1\obj\x86\Debug\VB1.frmFrist.resources
+D:\VB1\VB1\obj\x86\Debug\VB1.Resources.resources
+D:\VB1\VB1\obj\x86\Debug\VB1.vbproj.GenerateResource.Cache
+D:\VB1\VB1\obj\x86\Debug\VB1.exe
+D:\VB1\VB1\obj\x86\Debug\VB1.xml
+D:\VB1\VB1\obj\x86\Debug\VB1.pdb
+D:\VB1\VB1\obj\x86\Debug\VB1.frmSecond.resources
